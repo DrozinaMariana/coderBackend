@@ -1,0 +1,41 @@
+[{
+        "title": "caramelo",
+        "description": "blandos con azucar",
+        "price": 600,
+        "thumbnail": "www.blandos.co",
+        "code": 123,
+        "stock": 34
+    }, {
+        "title": "barrita",
+        "description": "cereales ligth",
+        "price": 300,
+        "thumbnail": "www.blandos.co",
+        "code": 234,
+        "stock": 50
+    },
+
+    {
+        "title": "galletita",
+        "description": "dulce de leche con chocolate",
+        "price": 50,
+        "thumbnail": "www.bagley",
+        "code": 432,
+        "stock": 1200
+    },
+    {
+        "title": "alfajor",
+        "description": "dulce de leche con chocolate",
+        "price": 200,
+        "thumbnail": "www.terrabusesi",
+        "code": 432,
+        "stock": 100
+    },
+    {
+        "title": "helado",
+        "description": "crema",
+        "price": 1200,
+        "thumbnail": "www.blandos.co",
+        "code": 123,
+        "stock": 200
+    }
+]
